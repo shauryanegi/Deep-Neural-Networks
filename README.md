@@ -1,6 +1,6 @@
 # Deep-Neural-Networks
 
-![alt text]("https://blog.floydhub.com/content/images/2018/08/Screen-Shot-2018-08-22-at-18.42.51.png")
+![alt text](https://blog.floydhub.com/content/images/2018/08/Screen-Shot-2018-08-22-at-18.42.51.png)
 
 Course 2 by Andrew Ng. This will teach you the "magic" of getting deep learning to work well. Rather than the deep learning process being a black box, you will understand what drives performance, and be able to more systematically get good results.
 - Understand industry best-practices for building deep learning applications. 
